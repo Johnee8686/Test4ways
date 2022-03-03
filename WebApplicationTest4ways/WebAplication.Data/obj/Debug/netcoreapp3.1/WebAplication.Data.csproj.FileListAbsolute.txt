@@ -1,0 +1,15 @@
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Data\bin\Debug\netcoreapp3.1\WebAplication.Data.deps.json
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Data\bin\Debug\netcoreapp3.1\WebAplication.Data.runtimeconfig.json
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Data\bin\Debug\netcoreapp3.1\WebAplication.Data.runtimeconfig.dev.json
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Data\bin\Debug\netcoreapp3.1\WebAplication.Data.dll
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Data\bin\Debug\netcoreapp3.1\WebAplication.Data.pdb
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Data\bin\Debug\netcoreapp3.1\WebAplication.Core.dll
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Data\bin\Debug\netcoreapp3.1\WebAplication.Core.pdb
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Data\obj\Debug\netcoreapp3.1\WebAplication.Data.csprojAssemblyReference.cache
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Data\obj\Debug\netcoreapp3.1\WebAplication.Data.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Data\obj\Debug\netcoreapp3.1\WebAplication.Data.AssemblyInfo.cs
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Data\obj\Debug\netcoreapp3.1\WebAplication.Data.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Data\obj\Debug\netcoreapp3.1\WebAplication.Data.csproj.CopyComplete
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Data\obj\Debug\netcoreapp3.1\WebAplication.Data.dll
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Data\obj\Debug\netcoreapp3.1\WebAplication.Data.pdb
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Data\obj\Debug\netcoreapp3.1\WebAplication.Data.genruntimeconfig.cache

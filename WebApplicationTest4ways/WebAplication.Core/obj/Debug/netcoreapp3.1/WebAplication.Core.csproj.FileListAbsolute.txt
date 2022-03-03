@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Core\bin\Debug\netcoreapp3.1\WebAplication.Core.deps.json
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Core\bin\Debug\netcoreapp3.1\WebAplication.Core.dll
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Core\bin\Debug\netcoreapp3.1\WebAplication.Core.pdb
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Core\obj\Debug\netcoreapp3.1\WebAplication.Core.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Core\obj\Debug\netcoreapp3.1\WebAplication.Core.AssemblyInfo.cs
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Core\obj\Debug\netcoreapp3.1\WebAplication.Core.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Core\obj\Debug\netcoreapp3.1\WebAplication.Core.dll
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Core\obj\Debug\netcoreapp3.1\WebAplication.Core.pdb

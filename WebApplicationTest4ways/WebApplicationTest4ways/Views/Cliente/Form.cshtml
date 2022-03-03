@@ -1,0 +1,23 @@
+﻿@{
+    @model WebApplicationTest4ways.Models.Cliente.ClienteViewModel
+    if (Model.IdCliente == 0)
+    {
+        ViewData["Title"] = "Crear Cliente";
+    }
+    else
+    {
+        ViewData["Title"] = "Modificar Cliente";
+    }
+    ViewData["Root"] = "Clientes";
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<partial name="_HeaderDetailPartial" view-data="ViewData" />
+<link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap-chosen.css" />
+@section Scripts{
+    <script src="~/js/plugins/jquery.inputmask.bundle/jquery.inputmask.bundle.js"></script>
+    <script src="~/lib/plugins/chosen/chosen.jquery.js"></script>
+    <script>
+    </script>
+}

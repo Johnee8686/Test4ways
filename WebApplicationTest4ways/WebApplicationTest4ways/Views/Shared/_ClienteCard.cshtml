@@ -1,0 +1,30 @@
+﻿@*@model Cliente*@
+
+@model WebApplicationTest4ways.Models.Cliente.ClienteViewModel
+
+<div class="col-sm-12 col-md-4 col-lg-4">
+    <div class="img-thumbnail">
+
+        <div class="caption">
+            <h3 class="pull-right">$@Model.Nombre</h3>
+            <h3>
+                <a asp-controller="Cliente" asp-action="Edit" asp-route-id="@Model.IdCliente">@Model.Nombre</a>
+            </h3>
+
+            <select asp-for="Paises"
+                    asp-items="@(new SelectList(Model.Paises, nameof(WebAplication.Core.Pais.IdPais), nameof(WebAplication.Core.Pais.Nombre)))">
+                <option>Seleccione</option>
+            </select>
+
+            <p class="font-weight-bold">Nombre: @Model.Nombre</p>
+            <p class="font-weight-bold">Pais: $@Model.IdPais </p>
+            <p class="font-weight-bold">Tipo Entidad: @Model.IdTipoEntidad</p>
+            <div>
+                <form asp-action="AddCliente" asp-route-id="@Model.IdCliente" method="post">
+                    <a asp-action="Add" asp-controller="Cliente" asp-route-id="@Model.IdCliente" class="btn btn-primary">Add</a>
+
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,9 @@
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Entities\bin\Debug\netcoreapp3.1\WebAplication.Entities.deps.json
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Entities\bin\Debug\netcoreapp3.1\WebAplication.Entities.dll
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Entities\bin\Debug\netcoreapp3.1\WebAplication.Entities.pdb
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Entities\obj\Debug\netcoreapp3.1\WebAplication.Entities.AssemblyInfoInputs.cache
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Entities\obj\Debug\netcoreapp3.1\WebAplication.Entities.AssemblyInfo.cs
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Entities\obj\Debug\netcoreapp3.1\WebAplication.Entities.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Entities\obj\Debug\netcoreapp3.1\WebAplication.Entities.dll
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Entities\obj\Debug\netcoreapp3.1\WebAplication.Entities.pdb
+C:\Users\pc\Desktop\WebApplicationTest4ways\WebApplicationTest4ways\WebAplication.Entities\obj\Debug\netcoreapp3.1\WebAplication.Entities.csprojAssemblyReference.cache
